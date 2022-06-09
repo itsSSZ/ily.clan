@@ -1,7 +1,7 @@
 /*4.am clan private css*/
 
 
-/* @note        scamgiri#0001 is not working on the CSS anymore and the updates are provided by Envy#2172 | all the codes [other than the loading screen, ty KraXen72#9190] are made by either Envy#2172 or scamgiri#0001,
+/* @note        I stole this css from 4.am and edited it hehe ,
 
 /*Section 0: base*/
 
