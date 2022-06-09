@@ -1,4 +1,4 @@
-/*4.am clan private css*/
+/*ily clan*/
 
 
 /* @note        I stole this css from 4.am and edited it hehe ,
